@@ -16,9 +16,10 @@ THis project demonstrates a " Traffic Light control system " using C programming
 - Modular code ready for embedded system adaptation
 
 ## How to Run
-1)Open the "traffic_light.c" file in your preferred C compiler(e.g GCC,Code::Blocks,Visual Studio)
-2)Compile and run the program.
-3)Observe the traffic light sequence in the console
+
+1)Open the "traffic_light.c" file in your preferred C compiler(e.g GCC,Code::Blocks,Visual Studio).    
+2)Compile and run the program.     
+3)Observe the traffic light sequence in the console.
 
 
 ## Future Work
